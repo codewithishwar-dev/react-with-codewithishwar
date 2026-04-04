@@ -61,6 +61,7 @@ This repo is built with that mindset.
 | Day 1 | JSX & Components | ✅      |
 | Day 2 | Props & State    | ⏳      |
 | Day 3 | Hooks            | ⏳      |
+| Day 4 | ES6              | ⏳      |
 
 ---
 
